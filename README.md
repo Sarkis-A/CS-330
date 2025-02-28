@@ -1,2 +1,11 @@
-# CS-330
-Comp Graphic and Visualization
+# CS-330 #
+## Comp Graphic and Visualization ##
+For this project, I designed and developed a fully interactive 3D scene, applying various computational graphics techniques such as geometric transformations, texture mapping, lighting effects, and camera controls. The project required careful planning and execution to create a visually compelling and interactive environment. My approach to software design involved outlining the key components first, establishing modularity, and ensuring scalability. By breaking the scene into smaller objects and managing them individually, I was able to create an efficient and well-structured application.
+
+Through this project, I refined my design skills by focusing on modularization and efficient resource management. I learned how to optimize shaders, textures, and lighting effects to enhance realism while maintaining performance. Implementing camera controls and interaction mechanics also deepened my understanding of user experience in 3D environments. The design process I followed included planning the scene layout, defining object transformations, applying textures and materials, and finally, implementing lighting and camera movements to enhance immersion.
+
+Many of the techniques I used in this project can be applied to future work, particularly in structuring complex software systems. The principles of modular programming, efficient rendering, and user interaction design can be extended to game development, simulations, and UI/UX design. Understanding how to create visually engaging and interactive environments will be helpful in various computer science applications.
+
+During the development phase, I adopted new strategies, such as shader management and hierarchical transformations, to manage scene complexity. Iteration significantly refined the scene—testing different textures, adjusting camera movements, and tweaking lighting conditions to achieve the best visual outcome. Throughout the milestones, my approach to development evolved from basic rendering to a more comprehensive understanding of OpenGL's capabilities. Each iteration helped me improve the scene's realism and efficiency.
+
+Computer science plays a crucial role in helping me achieve my professional goals. The skills I've gained in computational graphics and visualizations will be valuable in game development, software engineering, and UI/UX design. Understanding how to develop 3D environments expands my knowledge of interactive systems, which can be applied in educational and professional settings. Additionally, this project strengthened my problem-solving skills and my ability to work with real-time rendering techniques, preparing me for future challenges in my career.
